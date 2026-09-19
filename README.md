@@ -1,352 +1,131 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Saad Qureshi"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:020c1a,40:0d2137,70:1a3a6b,100:5B9BD5&height=220&section=header&text=Muhammad+Sharjeel&fontSize=52&fontColor=e6f1ff&fontAlignY=45&desc=Robotics+·+AI+·+Embedded+Systems&descSize=16&descColor=5B9BD5&descAlignY=65&animation=fadeIn&stroke=5B9BD5&strokeWidth=1"/>
 
-<br>
+</div>
 
-### Robotics & Intelligent Systems · Artificial Intelligence · Machine Learning · Physical AI
+<div align="center">
 
-**Student Researcher building intelligent systems across AI, robotics and real-world applications.**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=2200&pause=800&color=5B9BD5&center=true&vCenter=true&width=680&lines=Engineering+Student+%40+Bahria+University+%F0%9F%8E%93;Building+AI-Integrated+Autonomous+Systems+%F0%9F%A4%96;President+%40+Bahria+University+Venture+Club+%F0%9F%9A%80;IEEE+RAS+Liaison+Officer+%F0%9F%93%A1;Open+to+Internships+%C2%B7+Collabs+%C2%B7+Open+Source+%E2%9C%A8)](https://git.io/typing-svg)
 
-<br>
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-qureshi-175996324/)
-[![GitHub](https://img.shields.io/badge/GitHub-SaadQureshi002-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaadQureshi002)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+<br/>
 
-<br>
+<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=SaadQureshi002&style=flat-square&label=Profile+Views)
+<a href="https://www.linkedin.com/in/sharjeelx3">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:sharjeelawan508@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/sharjeelx03">
+  <img src="https://img.shields.io/badge/GitHub-24292f?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=sharjeelx03&style=for-the-badge&color=1a3a6b&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-## About Me
+## ⚡ GitHub Stats
 
-I'm **Saad Qureshi**, a **BS Robotics & Intelligent Systems student and Student Researcher at Bahria University**.
-
-My work focuses on the intersection of **Artificial Intelligence, Machine Learning, Robotics and Embedded Systems**, with particular interest in building systems that can **perceive, reason, make decisions and interact with the real world**.
-
-My current technical interests include:
-
-- Artificial Intelligence & Machine Learning
-- Deep Learning & Computer Vision
-- Retrieval-Augmented Generation
-- Explainable AI
-- Autonomous Navigation
-- Physical AI
-- Embedded & Edge Intelligence
-- Predictive Modeling
-
----
-
-## Research Focus
+<div align="center">
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### Artificial Intelligence
-
-- Machine Learning
-- Deep Learning
-- Explainable AI
-- Generative AI
-- Natural Language Processing
-- Retrieval-Augmented Generation
-- Semantic Search
-- Predictive Modeling
-
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=sharjeelx03&show_icons=true&hide_border=true&bg_color=020c1a&title_color=5B9BD5&icon_color=5B9BD5&text_color=8b949e&include_all_commits=true&count_private=true&border_radius=10&rank_icon=github&ring_color=1a3a6b"/>
 </td>
-
-<td width="50%" valign="top">
-
-### Robotics & Intelligent Systems
-
-- Physical AI
-- Autonomous Navigation
-- Robotic Perception
-- Computer Vision
-- Embedded Systems
-- Sensors & Actuators
-- Edge AI
-- Intelligent Control
-
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharjeelx03&layout=donut&hide_border=true&bg_color=020c1a&title_color=5B9BD5&text_color=8b949e&langs_count=6&border_radius=10"/>
 </td>
 </tr>
 </table>
 
----
-
-# Featured Work
-
-## Autonomous Robot Navigation System
-
-Developed a Python-based autonomous mobile robot navigation system featuring **vision-based environment perception, dynamic obstacle detection and adaptive path re-planning**.
-
-Implemented **D\* Lite** for dynamic environments and benchmarked its performance against **A\*** and **Dijkstra** using path cost, planning time and search efficiency.
-
-`Python` `Computer Vision` `D* Lite` `A*` `Dijkstra` `Path Planning`
-
----
-
-## CRIS — Corruption Risk Intelligence System
-
-Research-oriented machine learning system for identifying and analyzing corruption risk in financial governance.
-
-The system evaluates **SVM, Random Forest, XGBoost and Stacking Ensembles**, supported by **Explainable AI** for model interpretation.
-
-`Python` `Scikit-learn` `XGBoost` `Ensemble Learning` `XAI` `Streamlit`
-
----
-
-## Adaptive Technical Interview System
-
-Closed-loop intelligent interview framework combining **Retrieval-Augmented Generation** with **Sentence-BERT semantic scoring**.
-
-The system performs semantic answer evaluation and dynamically adapts interview difficulty according to candidate performance.
-
-`RAG` `Sentence-BERT` `FAISS` `NLP` `Semantic Similarity` `Python`
-
----
-
-## Explainable ML for Inflation Forecasting in Türkiye
-
-Research investigating the predictive role of **Turkish Lira depreciation and macroeconomic indicators** in inflation forecasting.
-
-The study considers variables including **TRY/USD exchange rate, CPI, energy prices, imports and exports**.
-
-`Machine Learning` `Time Series` `XGBoost` `Explainable AI` `Economic Forecasting`
-
----
-
-## BankGuard AI
-
-Machine learning system for counterfeit banknote detection using multiple classification algorithms including **SVM, KNN, Random Forest and Logistic Regression**.
-
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github)](https://github.com/SaadQureshi002/Fake-Currency-Detection-ML)
-
-`Python` `Machine Learning` `Classification` `Scikit-learn`
-
----
-
-## DocuMind — RAG Document Intelligence
-
-Full-stack document question-answering system based on **Retrieval-Augmented Generation and semantic vector search**.
-
-Built using React, FastAPI, FAISS, Gemini embeddings and SQLAlchemy.
-
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github)](https://github.com/SaadQureshi002/RAG-Book-QA)
-
-`React` `FastAPI` `FAISS` `RAG` `Gemini` `SQLAlchemy`
-
----
-
-## 4-DOF Color Sorting Robotic Arm
-
-Designed a robotic arm capable of detecting and sorting objects by color using servo-based manipulation and embedded control.
-
-**Achievement:** First Prize
-
-`Arduino` `Servo Motors` `Color Sensor` `Embedded Systems` `PCB`
-
----
-
-## Multi-Campus University Communication Network
-
-Designed a secure multi-campus network architecture using **OSPF Area 0, VLAN segmentation and ACL-based access control**.
-
-**Achievement:** First Prize
-
-`Cisco` `OSPF` `VLANs` `ACLs` `Routing` `Network Security`
-
----
-
-# Research
-
-### CRIS: A Multi-Algorithm Corruption Risk Intelligence System for Financial Governance Using Machine Learning
-
-**Status:** Under Review  
-**Areas:** Machine Learning · Ensemble Learning · Explainable AI
-
----
-
-### A Closed-Loop Adaptive Technical Interview System Using Retrieval-Augmented Generation and Sentence-BERT Semantic Scoring
-
-**Status:** Under Review  
-**Areas:** RAG · NLP · Semantic Evaluation · Adaptive AI
-
----
-
-### Explainable Machine Learning for Inflation Forecasting in Türkiye: Assessing the Predictive Role of Turkish Lira Depreciation
-
-**Areas:** Machine Learning · Explainable AI · Economic Forecasting
-
----
-
-# Technical Stack
-
-### Programming
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,js,mysql,html,css"/>
-</p>
-
-`MATLAB` · `SQL` · `Arduino C/C++`
-
-### AI & Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
-</p>
-
-`Scikit-learn` · `XGBoost` · `FAISS` · `RAG` · `NLP` · `XAI`
-
-### Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,react,git,github,vscode"/>
-</p>
-
-`Streamlit` · `SQLAlchemy` · `REST APIs`
-
-### Robotics & Engineering
-
-<p>
-<img src="https://skillicons.dev/icons?i=arduino"/>
-</p>
-
-`Embedded Systems` · `Sensors & Actuators` · `Autonomous Navigation` · `Physical AI` · `Control Systems`
-
-### Engineering Tools
-
-`MATLAB / Simulink` · `Proteus` · `SolidWorks` · `AutoCAD` · `Cisco Packet Tracer` · `LaTeX`
-
----
-
-# Technology Radar
+</div>
 
 <div align="center">
 
-<img src="./assets/tech-radar.svg" width="100%" alt="Technology Radar"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=sharjeelx03&theme=transparent&hide_border=true&background=020c1a&ring=5B9BD5&fire=5B9BD5&currStreakLabel=5B9BD5&sideLabels=8b949e&dates=446688&border_radius=10&stroke=1a3a6b"/>
 
 </div>
 
 ---
 
-# GitHub Analytics
+
+## 🌐 Contribution Graph
 
 <div align="center">
 
-<img height="165"
-src="https://github-readme-stats.vercel.app/api?username=SaadQureshi002&show_icons=true&hide_border=true&rank_icon=github"
-alt="Saad Qureshi GitHub Statistics"/>
-
-<img height="165"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaadQureshi002&layout=compact&hide_border=true&langs_count=8"
-alt="Most Used Languages"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img
-src="https://streak-stats.demolab.com?user=SaadQureshi002&hide_border=true"
-alt="GitHub Streak"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sharjeelx03&bg_color=020c1a&color=5B9BD5&line=1a3a6b&point=5B9BD5&area=true&hide_border=true&area_color=1a3a6b&radius=6&custom_title=Contribution+Timeline&title_color=5B9BD5"/>
 
 </div>
 
 ---
 
-# Contribution Activity
-
-<div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=SaadQureshi002&hide_border=true&area=true"
-width="100%"
-alt="GitHub Contribution Activity"/>
-
-</div>
-
----
-
-# Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/SaadQureshi002/SaadQureshi002/output/github-snake-dark.svg">
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/SaadQureshi002/SaadQureshi002/output/github-snake.svg">
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/SaadQureshi002/SaadQureshi002/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sharjeelx03/sharjeelx03/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sharjeelx03/sharjeelx03/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub Contribution Snake" width="100%" src="https://raw.githubusercontent.com/sharjeelx03/sharjeelx03/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
 </div>
 
 ---
 
-# Weekly Development Activity
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 ---
 
-# Selected Certifications
-
-- **Machine Learning Specialization** — DeepLearning.AI
-- **Deep Learning Specialization** — DeepLearning.AI
-- **Generative AI with Large Language Models** — DeepLearning.AI & AWS
-- **Building Systems with the ChatGPT API** — DeepLearning.AI
-- **Prompt Engineering for ChatGPT** — Vanderbilt University
-- **AI Fluency: Framework & Foundations** — Anthropic Academy
-- **Agentic AI Foundations Associate** — Oracle
-- **Global MOOC on the Ethics of AI** — UNESCO
-- **Fundamentals of Machine Learning & Artificial Intelligence** — AWS
-
----
-
-# Current Direction
+## 📈 Weekly Coding Breakdown
 
 <div align="center">
 
-### Artificial Intelligence → Robotics → Edge Intelligence → Physical AI
-
-<br>
-
-`PERCEIVE → UNDERSTAND → REASON → PLAN → ACT → ADAPT`
+<!--START_SECTION:waka-->
+```text
+Python       ██████████████░░░░░░░   55.2%
+C/C++        ██████░░░░░░░░░░░░░░░   24.1%
+Embedded C   ███░░░░░░░░░░░░░░░░░░   12.4%
+MATLAB       █░░░░░░░░░░░░░░░░░░░░    5.3%
+Other        ░░░░░░░░░░░░░░░░░░░░░    3.0%
+```
+<!--END_SECTION:waka-->
 
 </div>
 
-My current focus is on developing intelligent systems that move beyond software-only environments and combine **AI-driven reasoning with autonomous interaction in the physical world**.
-
 ---
 
-# Connect
+## 🛰️ Tech Radar
 
 <div align="center">
 
-Interested in **AI, Robotics, Machine Learning or Research collaboration?**
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sharjeelx03&repo=sharjeelx03&bg_color=020c1a&title_color=5B9BD5&text_color=8b949e&icon_color=5B9BD5&hide_border=true&border_radius=10" />
 
-<br>
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saad_Qureshi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-qureshi-175996324/)
+---
 
-[![GitHub](https://img.shields.io/badge/GitHub-SaadQureshi002-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaadQureshi002)
+<div align="center">
 
-[![Email](https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B9BD5,50:1a3a6b,100:020c1a&height=120&section=footer&animation=fadeIn&fontColor=e6f1ff&fontSize=14&text=Let%27s+build+something+great+together&fontAlignY=65&descAlignY=85"/>
 
-<br><br>
+</div>
 
-<img src="./assets/footer.svg" width="100%" alt="Footer"/>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sharjeelx3">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:sharjeelawan508@gmail.com">
+  <img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
