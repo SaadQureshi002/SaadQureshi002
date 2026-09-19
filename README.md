@@ -41,41 +41,32 @@ I enjoy working across both **software intelligence and physical systems**, with
 
 ---
 
-## Tech Stack
+## Core Focus
 
-### Languages
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,mysql" />
+| Artificial Intelligence | Robotics & Physical AI | Intelligent Systems |
+|---|---|---|
+| Machine Learning | Autonomous Robotics | Embedded Intelligence |
+| Deep Learning | Computer Vision | Edge AI |
+| LLMs & RAG | Robotic Perception | Intelligent Control |
+| Explainable AI | Path Planning | Sensors & Actuators |
+
+</div>
+
+<br>
+
+### Tools I Work With
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,opencv,fastapi,react,arduino,git,github,mysql,vscode" />
 </p>
 
-`MATLAB` · `SQL` · `Arduino C/C++`
+<div align="center">
 
-### AI & Machine Learning
+`Python` · `C++` · `MATLAB` · `PyTorch` · `TensorFlow` · `OpenCV` · `Scikit-learn` · `FAISS` · `FastAPI` · `Arduino`
 
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
-</p>
-
-`Scikit-learn` · `XGBoost` · `Machine Learning` · `Deep Learning`  
-`Computer Vision` · `RAG` · `FAISS` · `NLP` · `Explainable AI`
-
-### Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,react,git,github,vscode" />
-</p>
-
-`Streamlit` · `SQLAlchemy` · `REST APIs`
-
-### Robotics & Embedded
-
-<p>
-  <img src="https://skillicons.dev/icons?i=arduino" />
-</p>
-
-`Embedded Systems` · `Sensors & Actuators` · `Autonomous Navigation`  
-`Robotic Perception` · `Control Systems` · `Physical AI`
+</div>
 
 ---
 
