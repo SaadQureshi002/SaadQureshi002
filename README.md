@@ -11,33 +11,22 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Saad_Qureshi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-qureshi-175996324/)
 [![GitHub](https://img.shields.io/badge/GitHub-SaadQureshi002-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaadQureshi002)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saad59866247@gmail.com)
+
+<br>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=SaadQureshi002&style=flat-square&label=Profile+Views)
+
 </div>
 
 ---
 
 ## About Me
 
-I'm a **Robotics & Intelligent Systems Student**, with a strong interest in **Artificial Intelligence, Machine Learning and intelligent autonomous systems**.
+I'm a **Robotics & Intelligent Systems student** with a strong interest in **Artificial Intelligence, Machine Learning, Robotics, and intelligent autonomous systems**.
 
-My focus is on exploring how AI can be integrated with robotics and real-world systems through **Computer Vision, Deep Learning, LLMs, Retrieval-Augmented Generation, Explainable AI and Embedded Intelligence**.
+My focus is on exploring how technologies such as **Computer Vision, Deep Learning, LLMs, Retrieval-Augmented Generation, Explainable AI, and Embedded Intelligence** can be integrated with real-world robotic systems.
 
-I enjoy working across both **software intelligence and physical systems**, with the long-term goal of contributing to intelligent machines that can **perceive, reason, learn and act**.
-
----
-
-## Areas of Interest
-
-- Artificial Intelligence & Machine Learning
-- Deep Learning
-- Computer Vision
-- Large Language Models
-- Retrieval-Augmented Generation
-- Explainable AI
-- Autonomous Robotics
-- Physical AI
-- Embedded & Edge Intelligence
-- Intelligent Systems
+I'm particularly interested in intelligent machines capable of **perceiving, reasoning, planning, learning, and acting in physical environments**.
 
 ---
 
@@ -54,9 +43,9 @@ I enjoy working across both **software intelligence and physical systems**, with
 
 </div>
 
-<br>
+---
 
-### Tools I Work With
+## Tools I Work With
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,opencv,fastapi,react,arduino,git,github,mysql,vscode" />
@@ -70,24 +59,6 @@ I enjoy working across both **software intelligence and physical systems**, with
 
 ---
 
-## Areas I'm Exploring
-
-<p align="center">
-
-`Machine Learning` &nbsp;•&nbsp;
-`Deep Learning` &nbsp;•&nbsp;
-`Computer Vision` &nbsp;•&nbsp;
-`LLMs` &nbsp;•&nbsp;
-`RAG`
-
-<br>
-
-`Explainable AI` &nbsp;•&nbsp;
-`Autonomous Robotics` &nbsp;•&nbsp;
-`Physical AI` &nbsp;•&nbsp;
-`Edge AI`
-
-</p>
 ## Current Focus
 
 <div align="center">
@@ -104,7 +75,7 @@ I enjoy working across both **software intelligence and physical systems**, with
 
 <div align="center">
 
-I'm interested in connecting around **AI, Machine Learning, Robotics and Research**.
+Interested in connecting around **AI, Machine Learning, Robotics, and Research**.
 
 <br>
 
