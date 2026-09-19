@@ -4,15 +4,13 @@
 
 ### AI/ML | Computer Vision | LLMs & RAG | Robotics | Physical AI | C++ | JavaScript
 
-**Robotics & Intelligent Systems Student • Student Researcher**
+**Robotics & Intelligent Systems Student**
 
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Saad_Qureshi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-qureshi-175996324/)
 [![GitHub](https://img.shields.io/badge/GitHub-SaadQureshi002-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaadQureshi002)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=SaadQureshi002&style=flat-square&label=Profile+Views)
+[![Email](https://img.shields.io/badge/saad5986247@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
 
 </div>
 
@@ -20,7 +18,7 @@
 
 ## About Me
 
-I'm a **Robotics & Intelligent Systems undergraduate and Student Researcher at Bahria University**, with a strong interest in **Artificial Intelligence, Machine Learning and intelligent autonomous systems**.
+I'm a **Robotics & Intelligent Systems Student**, with a strong interest in **Artificial Intelligence, Machine Learning and intelligent autonomous systems**.
 
 My focus is on exploring how AI can be integrated with robotics and real-world systems through **Computer Vision, Deep Learning, LLMs, Retrieval-Augmented Generation, Explainable AI and Embedded Intelligence**.
 
