@@ -30,46 +30,46 @@ I'm particularly interested in intelligent machines capable of **perceiving, rea
 
 ---
 
-## Core Focus
+## What I'm Exploring
 
 <div align="center">
 
-| Artificial Intelligence | Robotics & Physical AI | Intelligent Systems |
-|---|---|---|
-| Machine Learning | Autonomous Robotics | Embedded Intelligence |
-| Deep Learning | Computer Vision | Edge AI |
-| LLMs & RAG | Robotic Perception | Intelligent Control |
-| Explainable AI | Path Planning | Sensors & Actuators |
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Machine+Learning;Computer+Vision+%26+Deep+Learning;LLMs+%26+Retrieval-Augmented+Generation;Autonomous+Robotics+%26+Physical+AI;Building+Intelligent+Systems+for+the+Real+World" />
 
 </div>
 
 ---
 
-## Tools I Work With
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,opencv,fastapi,react,arduino,git,github,mysql,vscode" />
-</p>
+## GitHub Activity
 
 <div align="center">
 
-`Python` · `C++` · `MATLAB` · `PyTorch` · `TensorFlow` · `OpenCV` · `Scikit-learn` · `FAISS` · `FastAPI` · `Arduino`
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/SaadQureshi002/SaadQureshi002/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/SaadQureshi002/SaadQureshi002/output/github-snake.svg">
+  <img alt="GitHub Contribution Snake"
+       src="https://raw.githubusercontent.com/SaadQureshi002/SaadQureshi002/output/github-snake.svg">
+</picture>
 
 </div>
 
 ---
 
-## Current Focus
+## Building Toward
 
 <div align="center">
 
-### AI → Robotics → Intelligent Autonomous Systems → Physical AI
+### Intelligent Systems that Perceive, Reason and Act
 
-`PERCEIVE → REASON → PLAN → ACT → LEARN`
+`PERCEPTION` → `REASONING` → `DECISION` → `AUTONOMY`
+
+<br>
+
+Exploring the intersection of **AI, Robotics and Physical Intelligence**.
 
 </div>
-
----
 
 ## Connect With Me
 
