@@ -34,7 +34,7 @@ I'm particularly interested in intelligent machines capable of **perceiving, rea
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Machine+Learning;Computer+Vision+%26+Deep+Learning;LLMs+%26+Retrieval-Augmented+Generation;Autonomous+Robotics+%26+Physical+AI;Building+Intelligent+Systems+for+the+Real+World" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Machine+Learning;Computer+Vision+%26+Deep+Learning;LLMs+%26+Retrieval-Augmented+Generation;Autonomous+Robotics+%26+Physical+AI;Building+Intelligent+Systems+for+the+Real+World" alt="Typing SVG" />
 
 </div>
 
@@ -45,12 +45,24 @@ I'm particularly interested in intelligent machines capable of **perceiving, rea
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sharjeelx03/sharjeelx03/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sharjeelx03/sharjeelx03/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub Contribution Snake" width="100%" src="https://raw.githubusercontent.com/sharjeelx03/sharjeelx03/output/github-contribution-grid-snake-dark.svg"/>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/SaadQureshi002/SaadQureshi002/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/SaadQureshi002/SaadQureshi002/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    width="100%"
+    src="https://raw.githubusercontent.com/SaadQureshi002/SaadQureshi002/output/github-contribution-grid-snake.svg"
+  />
 </picture>
 
 </div>
+
+---
 
 ## Building Toward
 
@@ -65,6 +77,8 @@ I'm particularly interested in intelligent machines capable of **perceiving, rea
 Exploring the intersection of **AI, Robotics and Physical Intelligence**.
 
 </div>
+
+---
 
 ## Connect With Me
 
