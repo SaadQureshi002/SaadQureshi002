@@ -40,22 +40,17 @@ I'm particularly interested in intelligent machines capable of **perceiving, rea
 
 ---
 
-## GitHub Activity
+## 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/SaadQureshi002/SaadQureshi002/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/SaadQureshi002/SaadQureshi002/output/github-snake.svg">
-  <img alt="GitHub Contribution Snake"
-       src="https://raw.githubusercontent.com/SaadQureshi002/SaadQureshi002/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sharjeelx03/sharjeelx03/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sharjeelx03/sharjeelx03/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub Contribution Snake" width="100%" src="https://raw.githubusercontent.com/sharjeelx03/sharjeelx03/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
 </div>
-
----
 
 ## Building Toward
 
