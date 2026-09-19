@@ -66,13 +66,11 @@ Exploring the intersection of **AI, Robotics and Physical Intelligence**.
 
 </div>
 
----
-
 ## Connect With Me
 
 <div align="center">
 
-Interested in connecting around **AI, Machine Learning, Robotics, and Research**.
+I'm open to connecting around **AI, Machine Learning, Robotics, Research, and Intelligent Systems**.
 
 <br>
 
