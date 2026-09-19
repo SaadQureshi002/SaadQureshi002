@@ -70,35 +70,24 @@ I enjoy working across both **software intelligence and physical systems**, with
 
 ---
 
-## GitHub Analytics
+## Areas I'm Exploring
 
-<div align="center">
+<p align="center">
 
-<img height="165"
-src="https://github-readme-stats.vercel.app/api?username=SaadQureshi002&show_icons=true&hide_border=true&rank_icon=github"
-alt="GitHub Stats"/>
+`Machine Learning` &nbsp;•&nbsp;
+`Deep Learning` &nbsp;•&nbsp;
+`Computer Vision` &nbsp;•&nbsp;
+`LLMs` &nbsp;•&nbsp;
+`RAG`
 
-<img height="165"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaadQureshi002&layout=compact&hide_border=true&langs_count=8"
-alt="Top Languages"/>
+<br>
 
-</div>
+`Explainable AI` &nbsp;•&nbsp;
+`Autonomous Robotics` &nbsp;•&nbsp;
+`Physical AI` &nbsp;•&nbsp;
+`Edge AI`
 
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=SaadQureshi002&hide_border=true&area=true"
-width="100%"
-alt="GitHub Contribution Graph"/>
-
-</div>
-
----
-
+</p>
 ## Current Focus
 
 <div align="center">
