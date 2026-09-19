@@ -34,7 +34,7 @@ I'm particularly interested in intelligent machines capable of **perceiving, rea
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Machine+Learning;Computer+Vision+%26+Deep+Learning;LLMs+%26+Retrieval-Augmented+Generation;Autonomous+Robotics+%26+Physical+AI;Building+Intelligent+Systems+for+the+Real+World" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&center=true&vCenter=true&width=750&lines=Artificial+Intelligence+%26+Machine+Learning;Computer+Vision+%26+Deep+Learning;Large+Language+Models+%26+RAG;Autonomous+Robotics+%26+Physical+AI;Edge+AI+%26+Embedded+Intelligence" />
 
 </div>
 
@@ -50,7 +50,7 @@ I'm particularly interested in intelligent machines capable of **perceiving, rea
   <img alt="GitHub Contribution Snake" width="100%" src="https://raw.githubusercontent.com/SaadQureshi002/SaadQureshi002/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
-</div>---
+</div>
 
 ## Building Toward
 
