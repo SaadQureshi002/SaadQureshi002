@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Saad_Qureshi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-qureshi-175996324/)
 [![GitHub](https://img.shields.io/badge/GitHub-SaadQureshi002-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaadQureshi002)
-[![Email](https://img.shields.io/badge/saad5986247@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saad59866247@gmail.com)
 
 </div>
 
